@@ -1,6 +1,6 @@
 # Updating "source.list" file of multiple Raspberry Pi with Bash script
 
-When we initially flashed a memory card for a TurtleBot from the [eManual Robotis website](https://emanual.robotis.com/docs/en/platform/turtlebot3/sbc_setup/), it comes with the 'Stretch' version of the operating system. This version is preferred in our laboratory because it already includes ROS (Robot Operating System). However, as mentioned in the [Raspberry forum](https://forums.raspberrypi.com/viewtopic.php?t=356182)it has come to our attention that the mirrors for this 'Stretch' version have recently been relocated from http://raspbian.raspberrypi.org/ or http://archive.raspberrypi.org/ to http://legacy.raspbian.org/
+When we initially flashed a memory card for a TurtleBot from the [eManual Robotis website](https://emanual.robotis.com/docs/en/platform/turtlebot3/sbc_setup/), it comes with the 'Stretch' version of the operating system. This version is preferred in our laboratory because it already includes ROS (Robot Operating System). However, as mentioned in the [Raspberry forum](https://forums.raspberrypi.com/viewtopic.php?t=356182) it has come to our attention that the mirrors for this 'Stretch' version have recently been relocated from http://raspbian.raspberrypi.org/ or http://archive.raspberrypi.org/ to http://legacy.raspbian.org/
 
 The original `source.list` file found at `/etc/apt` in the Turtlebots comes with these links:
 
