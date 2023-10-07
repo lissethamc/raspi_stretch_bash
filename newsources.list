@@ -1,0 +1,2 @@
+deb http://legacy.raspbian.org/raspbian stretch main contrib
+deb-src http://legacy.raspbian.org/raspbian stretch main contrib non-free rpi
